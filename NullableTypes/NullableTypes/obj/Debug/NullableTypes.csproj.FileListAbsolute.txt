@@ -1,0 +1,6 @@
+C:\Projects\NullableTypes\NullableTypes\bin\Debug\NullableTypes.exe.config
+C:\Projects\NullableTypes\NullableTypes\bin\Debug\NullableTypes.exe
+C:\Projects\NullableTypes\NullableTypes\bin\Debug\NullableTypes.pdb
+C:\Projects\NullableTypes\NullableTypes\obj\Debug\NullableTypes.csprojResolveAssemblyReference.cache
+C:\Projects\NullableTypes\NullableTypes\obj\Debug\NullableTypes.exe
+C:\Projects\NullableTypes\NullableTypes\obj\Debug\NullableTypes.pdb
