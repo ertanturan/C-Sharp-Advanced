@@ -1,0 +1,5 @@
+C:\Projects\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Projects\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Projects\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Projects\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Projects\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
